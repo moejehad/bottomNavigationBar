@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Delivery</string>
+    <string name="title_home">Home</string>
+    <string name="title_Parcels">My Parcels</string>
+    <string name="title_Profile">Profile</string>
+    <string name="title_Menu">Menu</string>
+    <string name="HomeTxt">Send And Receive You Parcels Very Easily And Quickly</string>
+    <string name="send">Send Parcel</string>
+    <string name="sendPr">Delivery Of Products Such As Documents, Food, Clothes And More</string>
+    <string name="recipient">I Am Recipient </string>
+    <string name="recipientPr">Track An Incoming Delivery To Me</string>
+    <string name="Pending">Pending </string>
+    <string name="Finished">Finished </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">LOGIN</string>
+    <string name="welcome">Welcome</string>
+    <string name="signUpText">Send And Receive Your Parcels Easily Across The Country</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone Number</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signup">SIGN UP</string>
+    <string name="log">Log In</string>
+    <string name="logInText">"Enter Your Information Below , Please "</string>
+    <string name="forgetPass">Forgot Password ?</string>
+    <string-array name="numbers">
+        <item>+972</item>
+        <item>+970</item>
+        <item>+962</item>
+        <item>+966</item>
+        <item>+1</item>
+        <item>+945</item>
+    </string-array>
+</resources>
